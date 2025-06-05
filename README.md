@@ -6,6 +6,6 @@ Trade Assistant supports all types of alerts and will let you know once there is
 
 ![Trade Assistant shows mixed signals for seven timeframes on this GBP/NZD chart](https://github.com/EarnForex/Trade-Assistant/blob/main/README_Images/trade-assistant-mtf-signals-rsi-cci-stochastic.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Trade-Assistant/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Trade-Assistant/
 
 Any contributions to the code are welcome!
